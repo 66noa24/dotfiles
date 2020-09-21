@@ -4,9 +4,7 @@ call plug#begin()
 Plug 'junegunn/goyo.vim'
 Plug 'drewtempelmeyer/palenight.vim'
 Plug 'itchyny/lightline.vim'
-Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'jiangmiao/auto-pairs'
-Plug 'deoplete-plugins/deoplete-jedi'
 
 call plug#end()
 
@@ -26,6 +24,3 @@ set nu
 set background=dark
 colorscheme palenight
 let g:lightline = { 'colorscheme': 'palenight' }
-
-" deoplet
-let g:deoplete#enable_at_startup = 1
