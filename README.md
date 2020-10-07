@@ -1,11 +1,12 @@
 # my-stuff
-My personal configs
-lol
+My Personal Configs
 
 
+**i3 pkgs**
+- i3blocks 
+	- Needed for bar config
 
-really it. xd
 
-
-
-ill add more ***later***
+**optional**
+- Flameshot (Nice screenshot tool.)
+	- `sudo pacman -S flameshot`
