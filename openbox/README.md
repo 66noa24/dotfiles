@@ -5,10 +5,12 @@
 <details>
 <summary>disclaimer</summary>
 <br>
-- The tint2rc is the same as `Repentance` in [here](https://github.com/downthecrop/tint2-theme-collections)
-- The plank theme is shade from [here](https://github.com/kennyh7279/plank-themes)
+- The tint2rc is the same as `Repentance` in ![here](https://github.com/downthecrop/tint2-theme-collections)  
+- The plank theme is shade from ![here](https://github.com/kennyh7279/plank-themes)
 </details>
   
+  
+---
 1. Make sure you have plank and tint2 installed
 	- `sudo pacman -S plank tint2`
 2. Copy openbox file to proper directory
