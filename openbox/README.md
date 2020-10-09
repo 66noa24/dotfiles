@@ -8,6 +8,7 @@
 - The tint2rc is the same as `Repentance` in [here](https://github.com/downthecrop/tint2-theme-collections)
 <br>
 - The plank theme is shade from [here](https://www.github.com/kennyh7279/plank-themes)
+</details>
 <br>
 ---
 <br>
@@ -19,3 +20,6 @@
 	- `cp -r plank/themes/Shade ~/.local/share/plank/themes` (*Note you may have to make the directory yourself*)
 4. Copy tint2
 	- `cp -r tint2 ~/.config/`
+
+
+[here](https://www.github.com/kennyh7279/plank-themes)
