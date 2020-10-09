@@ -13,10 +13,16 @@
 ---
 <br>
 1. Make sure you have plank and tint2 installed 
+<br>
+
 - `sudo pacman -S plank tint2`
 <br>
 2. Copy openbox file to proper directory 
+<br>
+
 - `cp -r openbox/ ~/.config`
 <br>
 3. Copy plank theme 
+<br>
+
 - `cp -r plank/themes/Shade ~/.local/share/plank/themes` (*Note you may have to make the directory yourself*)
