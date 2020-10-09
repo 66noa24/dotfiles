@@ -30,4 +30,6 @@
 
 4. Copy tint2
 <br>
+
 - `cp -r tint2/ ~/.local/share/`
+<br>
