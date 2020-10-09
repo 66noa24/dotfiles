@@ -1,0 +1,6 @@
+
+nitrogen --restore &
+picom & 
+tint2 &
+plank &
+

@@ -1,12 +1,14 @@
-# my-stuff
-My Personal Configs
+# My Dotfiles
+
+*Please note i3 is not complete as i did not use i3 for long*
+
+---
 
 
-**i3 pkgs**
-- i3blocks 
-	- Needed for bar config
+***PLEASE REFER TO THE FILES README**
 
-
-**optional**
-- Flameshot (Nice screenshot tool.)
-	- `sudo pacman -S flameshot`
+<details open>
+<summary>Questions:</summary>
+<br>
+- Discord: Nogla#4605
+- Email: noahmk4605@protonmail.com
