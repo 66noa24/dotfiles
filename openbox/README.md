@@ -26,3 +26,8 @@
 <br>
 
 - `cp -r plank/themes/Shade ~/.local/share/plank/themes` (*Note you may have to make the directory yourself*)
+<br>
+
+4. Copy tint2
+<br>
+- `cp -r tint2/ ~/.local/share/`
