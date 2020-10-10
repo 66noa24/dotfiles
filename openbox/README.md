@@ -1,6 +1,6 @@
 #Openbox Setup w/ plank & tint2
 ---
-![openbox](/images/OPENBOX.png)
+![openbox](/images/RICE.png)
   
 <details>
 <summary>disclaimer</summary>
