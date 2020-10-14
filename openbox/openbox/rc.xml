@@ -43,7 +43,7 @@
   </placement>
   <theme>
     <name>Triste-Froly</name>
-    <titleLayout>LIMC</titleLayout>
+    <titleLayout>NLIMC</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
       N: window icon
@@ -323,16 +323,6 @@
           <name>Konqueror</name>
         </startupnotify>
         <command>kfmclient openProfile filemanagement</command>
-        <keybind key="A-1">
-          <action name="Execute">
-            <command>pactl -- set-sink-volume 1 -10%</command>
-          </action>
-        </keybind>
-        <keybind key="A-2">
-          <action name="Execute">
-            <command>pactl -- set-sink-volume 1 +10%</command>
-          </action>
-        </keybind>
       </action>
     </keybind>
   </keyboard>
