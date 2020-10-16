@@ -1,6 +1,6 @@
 # Neovim Setup
 ---
-![Neovim](/images/NVIM.png)
+![Neovim](/images/nvim.png)
   
   
 1. First thing you need to do is go [here](https://github.com/junegunn/vim-plug) and get the `plug.vim` file and put it in the autostart file.
