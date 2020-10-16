@@ -1,7 +1,6 @@
 
 call plug#begin()
 
-Plug 'junegunn/goyo.vim'
 Plug 'arcticicestudio/nord-vim'
 Plug 'itchyny/lightline.vim'
 Plug 'jiangmiao/auto-pairs'
