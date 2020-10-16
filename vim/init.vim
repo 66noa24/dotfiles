@@ -2,7 +2,7 @@
 call plug#begin()
 
 Plug 'junegunn/goyo.vim'
-Plug 'drewtempelmeyer/palenight.vim'
+Plug 'arcticicestudio/nord-vim'
 Plug 'itchyny/lightline.vim'
 Plug 'jiangmiao/auto-pairs'
 
@@ -22,8 +22,8 @@ set nu
 
 " Color Theme
 set background=dark
-colorscheme palenight
-let g:lightline = { 'colorscheme': 'palenight' }
+colorscheme nord
+let g:lightline = { 'colorscheme': 'nord' }
 
 
 "split navigations
