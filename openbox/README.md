@@ -3,11 +3,13 @@
 ![openbox](/images/ob.png)
   
 <details>
-<summary>disclaimer</summary>
+<summary>info</summary>
 <br>
 - The tint2rc is the same as `Raven` in here- https://github.com/downthecrop/tint2-theme-collections
 <br>
 - The plank theme is shade from here- https://www.github.com/kennyh7279/plank-themes
+<br>
+- The theme is raven-cyan from here- https://github.com/downthecrop/openbox-theme-collections
 </details>
 <br>
 ---
