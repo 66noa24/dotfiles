@@ -3,7 +3,8 @@
 ![](/images/i3.png)
   
   
-1. Be sure you have `i3blocks installed`
-	- If not run this for arch based systems: `sudo pacman -S i3blocks`
+1. Be sure you have dependencies installed!!!
+	- If not run this for arch based systems: `sudo pacman -S i3blocks i3lock-fancy`
 2. To install this run `cp -r i3/ ~/.config/`
 
+**If there are ANY issues, plz message me on discord!!!**
