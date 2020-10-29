@@ -112,7 +112,7 @@ set $ws4 "4: "
 set $ws5 "5: "
 set $ws6 "6"
 set $ws7 "7"
-set $ws8 "8"
+set $ws8 "8: "
 set $ws9 "9: "
 set $ws10 "10: "
 
@@ -221,18 +221,27 @@ client.urgent #cc241d #cc241d #ebdbb2 #282828
 
 
 mode "moveit" {
-    bindsym Up move up 25px
-    bindsym Left move left 25px
-    bindsym Down move down 25px
-    bindsym Right move right 25px
+    bindsym Up move up 20px
+    bindsym Left move left 20px
+    bindsym Down move down 20px
+    bindsym Right move right 20px
+
     bindsym Mod4+m mode "default"
+    bindsym Return mode "default"
+    bindsym Escape mode "default"
 }
 bindsym Mod4+m focus floating; mode "moveit"
 
 
 
+# Window sh!t to make it look nice
+for_window [class=".*"] border pixel 0
+gaps inner 8
 
 
 # STUFF
+set $center move absolute position center
 exec_always nitrogen --restore
 exec_always picom
+exec volumeicon
+bindsym $mod+c $center
