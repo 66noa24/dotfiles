@@ -12,6 +12,9 @@
 
 ---
 ## i3wm Setup Instructions
+![](/images/i3_rice.png)
+---
+  
 1. Install deps
 	- i3, picom, i3lock-fancy | Optional: nitrogen
 		- `sudo pacman -S --needed i3 picom nitrogen`
@@ -22,6 +25,7 @@
 	- `cp -r .config/i3 ~/.config/`
 
 ## Openbox Setup instructions
+![](/images/ob.png)
 1. Install deps
 	 - openbox, plank, tint2, obmenu | Optional: nitrogen
 	 	- `sudo pacman -S --needed openbox plank tint2 nitrogen
