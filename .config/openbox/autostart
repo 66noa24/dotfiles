@@ -1,0 +1,7 @@
+
+nitrogen --restore &
+picom & 
+tint2 &
+plank &
+wal -i ~/Pictures/wallpapers/retro_computer_aesthetic-wallpaper-1600x900.jpg
+volume-icon

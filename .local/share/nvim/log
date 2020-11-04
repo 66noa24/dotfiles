@@ -1,0 +1,11 @@
+INFO  2020-11-01T11:35:10.665 44004 os_exit:581: Nvim exit: 0
+INFO  2020-11-01T11:35:10.666 44005 os_exit:581: Nvim exit: 0
+INFO  2020-11-01T11:35:10.727 44003 os_exit:581: Nvim exit: 0
+INFO  2020-11-01T11:36:44.805 44167 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2020-11-01T11:36:44.936 44167 emsg_multiline:679: E484: Can't open file /usr/local/share/nvim/syntax/syntax.vim (function plug#end (line 86))
+INFO  2020-11-01T11:36:45.175 44167 main:554: starting main loop
+INFO  2020-11-01T11:36:50.281 44167 os_exit:581: Nvim exit: 0
+INFO  2020-11-01T14:17:20.961 55660 patch_terminfo_bugs:1696: Disabling smglr with TERM=xterm for non-xterm.
+INFO  2020-11-01T14:17:20.979 55660 emsg_multiline:679: E484: Can't open file /usr/local/share/nvim/syntax/syntax.vim (function plug#end (line 86))
+INFO  2020-11-01T14:17:21.057 55660 main:554: starting main loop
+INFO  2020-11-01T14:17:33.220 55660 os_exit:581: Nvim exit: 0
