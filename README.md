@@ -42,7 +42,7 @@ Message me!
 
 1. Copy the files
 	- `git clone https://github.com/nogla4605/dotfiles.git`
-	- `cd dotfiles	
+	- `cd dotfiles`
 	- `cp -r .config/nvim/ ~/.config/`
 2. Open neovim with `nvim` (You will get an error, dont worry)
 	- Type `:PlugInstall`. Then restart neovim!
