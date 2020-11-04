@@ -200,10 +200,10 @@ client.urgent		$urgent-bg-color	$urgent-bg-color	$text-color		#616161
 bar {
         status_command i3blocks -c ~/.config/i3/i3blocks.conf
   colors {
-    background #282828
+    background #383838
     statusline #ebdbb2
     focused_workspace #979797 #979797 #282828 #282828
-    inactive_workspace #32302f #32302f #928374 #928374
+    inactive_workspace #383838 #383838 #8e8e8e #8e8e8e
     separator #928374
     active_workspace #1d2021 #1d2021 #928374 #928374
     urgent_workspace #cc241d #cc241d #ebdbb2 #ebdbb2
@@ -213,10 +213,10 @@ bar {
 bindsym $mod+shift+x exec i3lock-fancy -p
 
 
-client.focused #7c8e9e #7c8e9e #282828 #282828
-client.focused_inactive #7c8e9e #636363 #d5d5d5 #282828
-client.unfocused #32302f #757575 #d5d5d5 #282828
-client.urgent #cc241d #cc241d #ebdbb2 #282828
+client.focused #7c8e9e #7c8e9e #848484 #848484
+client.focused_inactive #515c66 #636363 #d5d5d5 #848484
+client.unfocused #32302f #757575 #d5d5d5 #848484
+client.urgent #cc241d #cc241d #ebdbb2 #848484
 
 
 
@@ -235,8 +235,8 @@ bindsym Mod4+m focus floating; mode "moveit"
 
 
 # Window sh!t to make it look nice
-for_window [class=".*"] border pixel 0
-gaps inner 8
+for_window [class=".*"] border pixel 3
+gaps inner 11
 
 
 # STUFF
