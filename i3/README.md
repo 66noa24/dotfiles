@@ -1,6 +1,6 @@
 #i3-wm Setup
 ---
-![](/images/i3.png)
+![](/images/i3_rice.png)
   
   
 1. Be sure you have dependencies installed!!!
