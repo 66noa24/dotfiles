@@ -18,7 +18,7 @@ Message me!
 
 1. Install deps
 	- i3, picom, i3lock-fancy, rofi | Optional: nitrogen (i3-gaps should come with the i3 package, if it dosnt just install it aswell.)
-		- `sudo pacman -S --needed i3 picom nitrogen`
+		- `sudo pacman -S --needed i3 picom nitrogen rofi`
 		- `yay -S i3lock-fancy`
 2. Copy files into correct location
 	- `git clone https://github.com/nogla4605/dotfiles.git`
