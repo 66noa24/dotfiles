@@ -1,6 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/noahmk/telpa_files'
+let g:netrw_dirhist_0='/home/noahmk/Documents/Python'
+let g:netrw_dirhist_9='/home/noahmk/Documents'
+let g:netrw_dirhist_8='/home/noahmk/Documents/Python'
+let g:netrw_dirhist_7='/home/noahmk/Documents'
+let g:netrw_dirhist_6='/home/noahmk/Documents/Python'
+let g:netrw_dirhist_5='/home/noahmk/Documents'
 let g:netrw_dirhist_4='/'
 let g:netrw_dirhist_3='/home'
 let g:netrw_dirhist_2='/home/noahmk'
-let g:netrw_dirhist_1='/home/noahmk/.config/nvim'

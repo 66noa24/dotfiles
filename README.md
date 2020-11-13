@@ -17,7 +17,7 @@ Message me!
 ![](/images/i3_rice.png)
 
 1. Install deps
-	- i3, picom, i3lock-fancy | Optional: nitrogen
+	- i3, picom, i3lock-fancy, rofi | Optional: nitrogen (i3-gaps should come with the i3 package, if it dosnt just install it aswell.)
 		- `sudo pacman -S --needed i3 picom nitrogen`
 		- `yay -S i3lock-fancy`
 2. Copy files into correct location
