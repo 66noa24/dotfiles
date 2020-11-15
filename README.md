@@ -33,7 +33,7 @@ WS 10. Discord
 Keybindings
 <br>
 Lock the screen | `mod+shift+x`
-<details>
+</details>
 
 1. Install deps
 	- i3, picom, i3lock-fancy, rofi, i3blocks | Optional: nitrogen (i3-gaps should come with the i3 package, if it dosnt just install it aswell.)
