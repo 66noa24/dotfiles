@@ -10,6 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 set $mod Mod4
+set $center move absolute position center
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -47,7 +48,7 @@ bindsym $mod+Return exec i3-sensible-terminal
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec rofi -show run
+bindsym $mod+d exec rofi -show drun
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
@@ -105,16 +106,16 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "1: "
-set $ws2 "2: "
-set $ws3 "3: "
-set $ws4 "4: "
-set $ws5 "5: "
+set $ws1 "1: Q"
+set $ws2 "2: T"
+set $ws3 "3: E"
+set $ws4 "4: ?"
+set $ws5 "5: ?"
 set $ws6 "6"
 set $ws7 "7"
-set $ws8 "8: "
-set $ws9 "9: "
-set $ws10 "10: "
+set $ws8 "8: G"
+set $ws9 "9: I"
+set $ws10 "10: D"
 
 # switch to workspace
 bindsym $mod+1 workspace number $ws1
@@ -234,7 +235,6 @@ mode "moveit" {
 bindsym Mod4+m focus floating; mode "moveit"
 
 
-
 # Window sh!t to make it look nice
 for_window [class=".*"] border pixel 3
 gaps inner 11
@@ -245,7 +245,6 @@ smart_borders no_gaps
 
 
 # STUFF
-set $center move absolute position center
 exec_always nitrogen --restore
 exec_always picom
 exec volumeicon
