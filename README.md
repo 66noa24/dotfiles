@@ -17,7 +17,7 @@ Message me!
 <details>
 <summary>My Workflow</summary>
 WS = workspace<br>
-<hr>
+---
 WS 1. Browsing<br>
 WS 2. Terminals<br>
 WS 3. Editing files<br>
