@@ -15,7 +15,7 @@ Message me!
 ![](/images/i3_rice.png)
 
 <details>
-<summary>My Workflow<summary>
+<summary>My Workflow</summary>
 WS = workspace
 <br>
 WS 1. Browsing<br>
