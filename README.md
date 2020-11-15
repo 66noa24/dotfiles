@@ -16,7 +16,6 @@ Message me!
 
 <details>
 <summary>My Workflow<summary>
-<br>
 WS = workspace
 <br>
 WS 1. Browsing<br>
