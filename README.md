@@ -1,7 +1,5 @@
 # My Dotfiles
 
-***PLEASE REFER TO THE FILES README**
-
 <details open>
 <summary>Any issues?</summary>
 <br>
