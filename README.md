@@ -28,8 +28,8 @@ WS 7. Nothing (I dont use it)<br>
 WS 8. Gameing<br>
 WS 9. IRC/hexchat<br>
 WS 10. Discord<br>
-<br>
-Keybindings
+---<br>
+<b>Keybindings</b>
 <br>
 Lock the screen | `mod+shift+x`<br>
 </details>
