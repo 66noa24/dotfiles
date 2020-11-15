@@ -19,20 +19,20 @@ Message me!
 <br>
 WS = workspace
 <br>
-WS 1. Browsing
-WS 2. Terminals
-WS 3. Editing files
-WS 4. Anything
-WS 5. Anything
-WS 6. Nothing (I dont use it)
-WS 7. Nothing (I dont use it)
-WS 8. Gameing
-WS 9. IRC/hexchat
-WS 10. Discord
+WS 1. Browsing<br>
+WS 2. Terminals<br>
+WS 3. Editing files<br>
+WS 4. Anything<br>
+WS 5. Anything<br>
+WS 6. Nothing (I dont use it)<br>
+WS 7. Nothing (I dont use it)<br>
+WS 8. Gameing<br>
+WS 9. IRC/hexchat<br>
+WS 10. Discord<br>
 <br>
 Keybindings
 <br>
-Lock the screen | `mod+shift+x`
+Lock the screen | `mod+shift+x`<br>
 </details>
 
 1. Install deps
