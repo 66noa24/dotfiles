@@ -47,7 +47,7 @@ Lock the screen | `mod+shift+x`<br>
 
 1. Install deps
 	 - openbox, plank, tint2, obmenu | Optional: nitrogen
-	 	- `sudo pacman -S --needed openbox plank tint2 nitrogen
+	 	- `sudo pacman -S --needed openbox plank tint2 nitrogen`
 		- `yay -S obmenu`
 2. Copy files
 	- `git clone https://github.com/nogla4605/dotfiles.git`
